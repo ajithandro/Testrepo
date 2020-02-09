@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">practice</string>
     <string name="str_sunday">Sun</string>
+    <string name="strlog">Login</string>
+    <string name="strentername">Enter your Name</string>
+    <string name="strpass">Enter your Password</string>
 </resources>
